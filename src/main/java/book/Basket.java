@@ -1,5 +1,7 @@
 package book;
 
+import java.util.List;
+
 public class Basket {
     public Basket() {
     }
@@ -16,4 +18,6 @@ public class Basket {
     private int customerId;
     private int BookInBasket;
 
+    public void addBooks(List<Book> books) {
+    }
 }
