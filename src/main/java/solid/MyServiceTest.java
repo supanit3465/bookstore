@@ -8,6 +8,6 @@ public class MyServiceTest {
     @Test
     void generateUUID() {
         MyService myService = new MyService();
-        assertEquals("DEMO7", myService.generateUUID());
+        assertEquals("DEMO5", myService.generateUUID());
     }
 }
