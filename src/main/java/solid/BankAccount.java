@@ -10,6 +10,6 @@ class Main {
 public class BankAccount {
     void transferMoney(BankAccount targetAccount, int amount) {
         //tranfer moner process
-
+        System.out.println("Transfer money in Thailand");
     }
 }
